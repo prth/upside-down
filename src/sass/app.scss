@@ -1,0 +1,11 @@
+// Core variables and mixins
+@import "./mixins/index";
+
+// Reset and dependencies
+@import "./partials/normalize";
+
+// Core CSS
+@import "./partials/base";
+
+// Page specific CSS
+@import "./partials/search";
